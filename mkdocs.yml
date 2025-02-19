@@ -9,5 +9,5 @@ docs_dir: docs_src
 
 plugins:
   - search
-  - pdf-export:
-      verbose: true
+  #- pdf-export:
+   #   verbose: true
